@@ -1,1 +1,5 @@
 print("Kristīne Štālmane")
+print("Artūrs Sejāns")
+print("Kristaps Šēpers")
+print("Kitija Vuskane")
+print("08.09.2021")
